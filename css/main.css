@@ -105,7 +105,7 @@ nav ul li a{
   display:block;
   width: 90%;
   height:60px;
-  background:rgb(4,245,205);
+  background-color:rgb(4,245,205);
   color: #fff;
   line-height: 60px;
   text-align: center;
