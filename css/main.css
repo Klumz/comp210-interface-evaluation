@@ -63,9 +63,13 @@ body, html{
   font-family: 'Roboto', sans-serif;
 }
 h1{
-  font-size: 2em;
+  font-size: 3em;
   padding:10px;
   font-weight:bold;
+   color: black;
+   font-style: bold;
+   text-decoration: underline;
+   text-align: center;
 }
 h2{
   font-size: 1.4em;
