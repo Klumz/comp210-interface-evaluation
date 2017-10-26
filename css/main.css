@@ -78,7 +78,7 @@ h2{
 
 .main-container{
   width:1500px;
-  background:rgb(37, 203, 62);
+  background:rgb(61,123,195);
   margin: 30px auto;
   position: relative;
   overflow: auto;
@@ -92,13 +92,13 @@ header{
 }
 .content{
   width:100%;
-  min-height:400px;
+  min-height:100px;
 }
 aside{
-  width:50%;
+  width:20%;
   min-height: 300px;
   float:left;
-  background:rgb(37, 203, 62);
+  background:rgb(61,123,195);
 }
 nav ul{
   margin:10px;
@@ -110,7 +110,7 @@ nav ul li a{
   display:block;
   width: 90%;
   height:40px;
-  background-color:rgb(65,133,179);
+  background-color:rgb(9,93,189);
   color: #fff;
   line-height: 60px;
   text-align: center;
